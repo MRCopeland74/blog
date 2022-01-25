@@ -1,0 +1,10 @@
+site_name: Outworkings of God's Love
+site_description: My Blog on my thoughts of Life, God and Christianity
+theme: readthedocs
+nav:
+- Home: 'index.md'
+- Blog List:
+    - 'What is existence: Fundamentals to Christianity': 'existence.md'
+- Appendix:
+    - Book List: 'booklist'
+site_author: 'Michael Copeland'
