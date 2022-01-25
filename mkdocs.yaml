@@ -5,6 +5,10 @@ nav:
 - Home: 'index.md'
 - Blog List:
     - 'What is existence: Fundamentals to Christianity': 'existence.md'
+    - 'What is Truth: Fundamentals to Christianity': 'truth.md'
+    - 'What is Love: Fundamentals to Christianity': 'LOVE.md'
+    - 'Love Paradox': 'loveparadox.md'
+    - 'Getting out of the Court Room: the Antidote to Legalism': 'legalism.md'
 - Appendix:
     - Book List: 'booklist'
 site_author: 'Michael Copeland'
